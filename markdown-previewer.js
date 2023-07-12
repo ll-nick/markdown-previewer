@@ -1,10 +1,11 @@
 const App = styled.div`
-    display: flex;
-    flex-wrap: wrap;
     width: 100%;
+    min-height: 100vh;
     margin: 0;
     padding: 0;
     background-color: #462255;
+    display: flex;
+    flex-wrap: wrap;
 `
 
 const Wrapper = styled.div`
